@@ -27,7 +27,7 @@ img {
   overflow: hidden;
   backface-visibility: hidden;
   position: absolute;
-  transition: transform .6s linear;
+  transition: transform .3s linear;
   border-radius: 30px;
 }
 
