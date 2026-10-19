@@ -24,7 +24,7 @@ body{
 }
 
 .card a:hover{
-  color: red;
+  color: rgb(255, 234, 0);
 }
 
 .bar{
