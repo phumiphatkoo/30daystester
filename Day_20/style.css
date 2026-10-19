@@ -21,7 +21,7 @@ h1::before {
   color:#F2637C;
   width: 0%;
   overflow: hidden;
-  transition: all 0.6s;
+  transition: all 0.4s;
 }
 
 h1:hover::before {
