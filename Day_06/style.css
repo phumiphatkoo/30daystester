@@ -3,7 +3,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(216, 112, 199);
+    background-color: rgb(187, 112, 216);
 }
 
 .heart {
