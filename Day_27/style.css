@@ -39,7 +39,7 @@ ul li:before {
   height: 100%;
   background-color: #EB6078;
   border-radius: 50%;
-  transition: all 0.5s;
+  transition: all 0.3s;
   opacity: 0;
   z-index: -1;
 }
@@ -67,7 +67,7 @@ ul li:after {
 
 ul li:hover:after {
   opacity: 1;
-  animation: rotating 10s linear infinite;
+  animation: rotating 1s linear infinite;
 }
 
 @keyframes rotating {
