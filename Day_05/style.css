@@ -18,7 +18,7 @@ h1 {
 }
 
 @keyframes float {
-    from {transform: rotate(20deg);}
+    from {transform: rotate(0deg);}
 
-    to {transform: rotate(-20deg);}
+    to {transform: rotate(360deg);}
 }
