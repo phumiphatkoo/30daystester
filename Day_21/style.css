@@ -3,7 +3,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: linear-gradient(0, #120c56, #000000);
+	background: linear-gradient(0, #120c56, #f07d3f);
 }
 
 h1 {
