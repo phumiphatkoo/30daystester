@@ -23,7 +23,7 @@ ul {
 li {
   list-style: none;
   color: whitesmoke;
-  font-size: 100px;
+  font-size: 50px;
   font-weight: bolder;
   letter-spacing: 10px;
   transition: 2s;
