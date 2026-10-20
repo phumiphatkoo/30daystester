@@ -18,7 +18,7 @@ ul li {
   width: 100px;
   height: 100px;
   margin: 0 10px;
-  border:5px solid white;
+  border:5px solid rgb(239, 123, 123);
   border-radius: 50%;
   transition: all 0.5s;
   position: relative;
@@ -26,7 +26,7 @@ ul li {
   align-items: center;
   justify-content: center;
   font-size: 48px;
-  color: #7C2742;
+  color: #e43c71;
   transition: 0.5s;
 }
 
