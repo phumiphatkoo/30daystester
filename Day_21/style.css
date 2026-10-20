@@ -12,7 +12,7 @@ h1 {
 	background: url(image.jpg);
 	-webkit-background-clip: text;
 	color: transparent;
-	animation: text-background 20s linear infinite;
+	animation: text-background 10s linear infinite;
 }
 
 @keyframes text-background {
